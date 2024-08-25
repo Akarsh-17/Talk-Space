@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Route, Switch } from 'react-router-dom';
-import Main from './components/Main/Main';
-import Room from './components/Room/Room'
+// import Main from './components/Main/Main';
+// import Room from './components/Room/Room'
 import styled from 'styled-components';
 import MainCopy from './components/Main/MainCopy';
 import RoomCopy from './components/Room/RoomCopy';
